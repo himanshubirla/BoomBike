@@ -45,6 +45,8 @@ eg. Let say last year during your season time(for 3 months), every day you got 1
 - Matplotlib
 - Spacy 3.2.2
 - sklearn
+- klib
+- statsmodel
 
 
 ## Contact
